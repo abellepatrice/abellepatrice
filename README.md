@@ -1,0 +1,33 @@
+# 👋 Hello, I'm Patrice Oyende  
+
+### 🚀 Full Stack Developer | Cybersecurity Student | Tech Enthusiast  
+
+I'm a passionate **Full Stack Developer** with experience in **React, PHP Laravel, Flask, MySQL, and cybersecurity**. I love building scalable web applications, securing systems, and working on innovative projects.  
+
+---
+
+## 🔧 Tech Stack  
+💻 **Frontend:** React.js, HTML, CSS, JavaScript  
+🛠️ **Backend:** PHP (Laravel), Flask (Python),  Express.js (Node.js) 
+📦 **Database:** MySQL, MongoDB  
+🔒 **Cybersecurity:** Ethical Hacking, Network Security  
+☁️ **Other Tools:** Git, Docker, Postman  
+
+---
+
+## 🌱 What I'm Working On  
+🔹 **Speedy Spanners** - A garage management system (Built with Express.js & MongoDB)  
+🔹 **Elite Shop** - An e-commerce platform for tech accessories  
+🔹 **Patrice Soko Garden** - A marketplace with MPESA integration  
+
+---
+
+## 📫 Connect With Me  
+📧 Email: [abellepatrice@gmail.com](mailto:abellepatrice@gmail.com)  
+🔗 LinkedIn: [Patrice Oyende](https://www.linkedin.com/in/patrice-oyende-84965b306/)  
+
+---
+
+⭐ **Fun Fact:** I enjoy solving cybersecurity challenges & optimizing backend performance!  
+
+🛠️ **Let's build something amazing together!** 🚀
