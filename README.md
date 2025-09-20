@@ -8,10 +8,14 @@ I'm a passionate **Full Stack Developer** with experience in **React,React Nativ
 
 ## 🔧 Tech Stack  
 💻 **Frontend:** React.js, HTML, CSS, JavaScript, React Native
+
 🛠️ **Backend:** PHP (Laravel), Flask (Python),  Express.js (Node.js) 
+
 📦 **Database:** MySQL, MongoDB, Firebase, Microsoft SQL
+
 🔒 **Cybersecurity:** Ethical Hacking, Network Security  
-☁️ **Other Tools:** Git, Docker, Postman, VS Code, Android Studio, Insomnia
+
+☁️ **Other Tools:** Git, Docker, Postman, VS Code, Android Studio, Insomnia, Ngok 
 
 ---
 
@@ -19,7 +23,7 @@ I'm a passionate **Full Stack Developer** with experience in **React,React Nativ
 🔹 **Speedy Spanners** - A garage management system (Built with Express.js & MongoDB)  
 🔹 **Elite Shop** - An e-commerce platform for tech accessories  
 🔹 **Patrice Soko Garden** - A marketplace with MPESA integration  
-🔹 **Abelle Group** - A Loan App that allows users to borrow moiney as a group or individual
+🔹 **Abelle Group** - A Loan App that allows users to borrow money as a group or individual
 
 
 
