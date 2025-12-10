@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Patrice Oyende  
+#  Hello, I'm Patrice Oyende  
 
 ### 🚀 Full Stack Developer | Cybersecurity Student | Tech Enthusiast  
 
@@ -7,9 +7,9 @@ I'm a passionate **Full Stack Developer** with experience in **React,React Nativ
 ---
 
 ## 🔧 Tech Stack  
-💻 **Frontend:** React.js, HTML, CSS, JavaScript, React Native, Next JS, Kotlin(Android)
+💻 **Frontend:** React.js, HTML, CSS 3 and Tailwind CSS, JavaScript, React Native, Next JS, Kotlin(Android) Futter(Dart)
 
-🛠️ **Backend:** PHP (Laravel), Flask (Python),  Express.js (Node.js) 
+🛠️ **Backend:** PHP (Laravel), Flask (Python),  Express.js (Node.js), (Nest JS)
 
 📦 **Database:** MySQL, MongoDB, Firebase, Microsoft SQL, Supabase
 
@@ -20,12 +20,17 @@ I'm a passionate **Full Stack Developer** with experience in **React,React Nativ
 ---
 
 ## 🌱 What I'm Working On  
-🔹 **Speedy Spanners** - A garage management system (Built with Express.js & MongoDB) 
-🔹 **Elite Shop** - An e-commerce platform for tech accessories  
-🔹 **Patrice Soko Garden** - A marketplace with MPESA integration  
+🔹 **TODO App** - A todo web anad mobile app that handles create, edit and update tasks  
+
+🔹 **Cineverxe Movie App** - A movie app  
+
 🔹 **Abelle Group Loan App** - A Loan App that allows users to borrow money as a group or individual
+
 🔹 **Abelle Group Web-Porfolio** - A porfolio that shows the projects I have created, live demos and the programs I use
 
+🔹 **Speedy Spanners** - A garage management system (Built with Express.js & MongoDB) 
+
+🔹 **Elite Shop** - An e-commerce platform for tech accessories  
 
 ---
 
@@ -37,4 +42,4 @@ I'm a passionate **Full Stack Developer** with experience in **React,React Nativ
 
 ⭐ **Fun Fact:** I enjoy solving cybersecurity challenges & optimizing backend performance!  
 
-🛠️ **Let's build something amazing together!** 🚀
+🛠️ **Let's build something amazing together!** 
