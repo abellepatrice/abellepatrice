@@ -1,7 +1,6 @@
 #  Hello, I'm Patrice Oyende  
 
-### 🚀 Full Stack Developer | Cybersecurity Student | Tech Enthusiast  
-
+### Full Stack Developer
 I'm a passionate **Full Stack Developer** with experience in **React,React Native, PHP Laravel,Next JS, Kotlin(Android) Flask, MySQL, and cybersecurity**. I love building scalable web applications, securing systems, and working on innovative projects.  
 
 ---
@@ -40,6 +39,5 @@ I'm a passionate **Full Stack Developer** with experience in **React,React Nativ
 
 ---
 
-⭐ **Fun Fact:** I enjoy solving cybersecurity challenges & optimizing backend performance!  
 
 🛠️ **Let's build something amazing together!** 
