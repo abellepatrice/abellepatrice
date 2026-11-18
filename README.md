@@ -12,7 +12,7 @@ I am an entrepreneurial software engineer and systems architect specializing in 
 
 ## ⚡ What I'm Building & Leading
 
-* 🏠 **[CribSeek](https://patrice.abelle.site)** — **Founder & Lead Architect**  
+* 🏠 **[CribSeek](https://cribseek.app)** — **Founder & Lead Architect**  
   Directing product engineering and platform architecture for a modern property and rental discovery platform connecting renters directly with verified listings, automated management tools, and intelligent search.
 * 🏥 **DTLC Health Partner** — *Full-Stack Clinical & Diagnostic Platform*  
   Engineered a patient monitoring ecosystem (React Native, Node.js, Express, PostgreSQL) featuring AES-256 clinical data encryption, biometrics tracking, and automated epidemiological reporting.
